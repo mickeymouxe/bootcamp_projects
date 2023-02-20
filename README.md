@@ -1,6 +1,5 @@
-# Bootcamp Projects
-
-Data Science Bootcamp by `DataRockie`
+# Data Science Bootcamp Projects
+by [DataRockie](https://datarockie.com/)
 
 We learn 10 sprints during 4 month program.
 
